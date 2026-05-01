@@ -1,14 +1,20 @@
 # Hey there! 👋
 
+Hey there! 👋
+
 I’m Chaitanya — a beginner developer who enjoys thinking in logic and figuring things out step by step.
 
-I’m still early in my journey, often learning as I go, sometimes getting stuck, but always coming back to solve it.
+I’m still early in my journey, often learning as I go..
 
-Right now, I’m working on improving my problem solving through Codeforces and LeetCode, and building small web projects — one of them being **TravelBuddy**, a simple travel website.
+Right now, I’m improving my problem solving through Codeforces and LeetCode, while building small web projects along the way — one of them being TravelBuddy, a simple travel website.
 
-I like turning ideas into something real, even if it’s messy at first. For me, it’s about trying, failing, and slowly getting better.
+I’ve been exploring different areas like development, AIML, and more — still figuring out what clicks the most. For now, I’m focused on learning, building, and gaining real understanding.
 
-Currently exploring AIML and understanding how things actually work behind the scenes.
+I mostly work with C, C++, Java, Python, and web basics like HTML, CSS, and JavaScript.
+
+I don’t have everything figured out yet — I get stuck, I overthink, but I keep coming back until it makes sense.
+
+If you want to connect or build something together, feel free to reach out 🙂
 
 ---
 
