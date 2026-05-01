@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**ShelarChaitanya/ShelarChaitanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Chaitanya — a beginner developer who enjoys thinking in logic and figuring things out step by step.
 
-Here are some ideas to get you started:
+I’m still early in my journey, often learning as I go, sometimes getting stuck, but always coming back to solve it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m working on improving my problem solving through Codeforces and LeetCode, and building small web projects — one of them being **TravelBuddy**, a simple travel website.
+
+I like turning ideas into something real, even if it’s messy at first. For me, it’s about trying, failing, and slowly getting better.
+
+Currently exploring AIML and understanding how things actually work behind the scenes.
+
+---
+
+### Fun facts
+
+* I enjoy logic more than memorizing syntax
+* I overthink problems… then solve them
+* I may not be consistent yet, but I don’t quit
+
+---
+
+If you want to connect or build something together, feel free to reach out 🙂
